@@ -5,6 +5,6 @@ Get the game here: https://baraklava.itch.io/manic-miners
 
 # Installation instructions:
 
--Locate your ManicMiners folder
--Open Textures folder
--Copy and paste files from this mod into the apppropriate folders
+1. Locate your ManicMiners folder
+2. Open Textures folder
+3. Copy and paste files from this mod into the apppropriate folders
